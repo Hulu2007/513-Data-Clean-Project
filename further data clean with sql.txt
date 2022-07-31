@@ -1,0 +1,8 @@
+update menu set venue = 'HOTEL' where venue like 'HOTEL%';
+update menu ue set venue = 'SOC' where venue like 'SOC%';
+update menu set venue = 'PROF' where venue like 'PROF%';
+update menu set venue = 'COM' where venue like 'COM%';
+update menu set venue = 'EDU' where venue like 'EDU%';
+update menu set venue = 'FOREIGN' where venue like 'FOREIGN%';
+update menu set venue = 'MIL' where venue like 'MIL%';
+update menu set venue = 'POL' where venue like 'POL%';

@@ -1,0 +1,188 @@
+year_range,dish_id,dish_name,dish_count,Rank_in_ten_years
+<1890,96,Coffee,5,1
+,232,Roast Beef,4,2
+,1544,Roast Chicken,4,2
+,4320,Boiled Tongue,4,2
+,2097,Boiled Ham,4,2
+,163,Charlotte Russe,4,2
+,4336,Potted Pigeons,3,7
+,872,Cauliflower,3,7
+,4397,Walnuts,3,7
+,4434,Raisins,3,7
+,1295,Green Corn,3,7
+,215,Lobster Salad,3,7
+,4468,Lobster Plain,3,7
+,4512,Almonds,3,7
+,4519,Water Melons,3,7
+,115,Apples,3,7
+,1177,Olives,3,7
+,4574,Black Ducks,3,7
+1880--1890,96,Coffee,67,1
+,1177,Olives,56,2
+,1215,Fruits,53,3
+,2450,Cafe,49,4
+,3436,Petits Fours,43,5
+,4434,Raisins,34,6
+,1052,Dessert,34,6
+,112,Fruit,32,8
+,15,Celery,30,9
+,13950,Huitres,28,10
+1890--1900,96,Coffee,681,1
+,1177,Olives,474,2
+,112,Fruit,354,3
+,15,Celery,352,4
+,7,Radishes,339,5
+,795,Cheese,237,6
+,83,Potatoes Mashed,220,7
+,1215,Fruits,218,8
+,1763,Cucumbers,218,8
+,2450,Cafe,216,10
+1900--1910,96,Coffee,3276,1
+,97,Tea,1760,2
+,1177,Olives,1411,3
+,15,Celery,1381,4
+,7,Radishes,1249,5
+,112,Fruit,1073,6
+,83,Potatoes Mashed,1055,7
+,219,Potatoes Boiled,963,8
+,795,Cheese,857,9
+,232,Roast Beef,775,10
+1910--1920,96,Coffee,56,1
+,97,Tea,41,2
+,808,Kaffee,26,3
+,281,Marmalade,20,4
+,60,Hafergrutze,17,5
+,270,Hominy,17,5
+,219,Potatoes Boiled,16,7
+,65,Milchreis,16,7
+,51353,Tee,16,7
+,1259,Potatoes French Fried,15,10
+,194213,Verschiedene Wurst,15,10
+,194217,Cofeinfreier Kaffee,15,10
+,155,Oatmeal,15,10
+1920--1930,1099,Ham,8,1
+,96,Coffee,6,2
+,15,Celery,6,2
+,1259,Potatoes French Fried,5,4
+,909,Cream Toast,5,4
+,907,Milk Toast,5,4
+,106,Orange Marmalade,5,4
+,1945,Bacon,5,4
+,216,Potato Salad,5,4
+,1268,Potatoes Hashed Browned,4,10
+,247,Sirloin Steak,4,10
+,87819,Fried Bacon And Eggs,4,10
+,87816,Fried Eggs And Ham,4,10
+,6660,Whole Wheat Bread,4,10
+,4369,Eggs Poached On Anchovy Toast,4,10
+,6277,Green Apple Pie,4,10
+,72523,Eggs Shirred 2,4,10
+,83,Potatoes Mashed,4,10
+,182989,Extracted Honey,4,10
+,1409,Guava Jelly,4,10
+,9889,Malted Milk,4,10
+,68448,Ginger Ale Domestic,4,10
+,133808,Coca Cola,4,10
+,182544,Pluto Water,4,10
+,10861,Ripe Olives,4,10
+,1622,American,4,10
+1930--1940,97,Tea,55,1
+,96,Coffee,55,1
+,98,Milk,43,3
+,283,Cocoa,30,4
+,133341,Tomato Juice,22,5
+,751,Toast,22,5
+,907,Milk Toast,20,7
+,241,Rolls,20,7
+,909,Cream Toast,19,9
+,10861,Ripe Olives,17,10
+1940--1950,96,Coffee,53,1
+,98,Milk,53,1
+,97,Tea,44,3
+,133341,Tomato Juice,27,4
+,182498,Tea Pot,21,5
+,907,Milk Toast,21,5
+,182308,Assorted Bread,20,7
+,10250,Orange Juice,20,7
+,182497,Coffee Cup,20,7
+,95,Ice Cream,19,10
+1950--1960,96,Coffee,34,1
+,97,Tea,24,2
+,136438,Chef's Salad,14,3
+,20877,French Pastry,13,4
+,132722,Shrimp Cocktail,13,4
+,778,Blue Point Oysters,13,4
+,10250,Orange Juice,12,7
+,147661,Melon In Season,12,7
+,3983,Demi Tasse,12,7
+,28351,Cape Cod Oysters,12,7
+,133341,Tomato Juice,12,7
+,98,Milk,12,7
+,147266,Mixed Green Salad,12,7
+1960--1970,96,Coffee,42,1
+,98,Milk,40,2
+,97,Tea,36,3
+,147661,Melon In Season,24,4
+,133377,Grape Fruit Half,23,5
+,133341,Tomato Juice,22,6
+,10250,Orange Juice,17,7
+,3983,Demi Tasse,16,8
+,138912,Sanka,16,8
+,144559,Pineapple Juice,15,10
+1970--1980,96,Coffee,8,1
+,42771,Gemischter Salat,7,2
+,42769,Pommes Frites,5,3
+,32684,Portwein,4,4
+,133868,Apfelsaft,4,4
+,5597,Potted Shrimps,4,4
+,159993,Schwedenfruchte Mit Rum Und Flussiger Sahne,4,4
+,137500,Underberg,4,4
+,148750,Fachinger,4,4
+,2829,White Horse,4,4
+,776,Apollinaris,4,4
+,135577,Irish Coffee,4,4
+,134104,Soup,4,4
+1980--1990,32125,Canapes,10,1
+,133159,Campari,9,2
+,133455,Pernod,8,3
+,96,Coffee,8,3
+,32613,Whisky,7,5
+,68416,Bourbon,7,5
+,133298,Americano,7,5
+,133456,Ricard,7,5
+,133458,Punch Blanc,7,5
+,133459,Planteur,7,5
+,133164,Bloody Mary,7,5
+,3272,Grand Marnier,7,5
+,132387,Cointreau,7,5
+,97,Tea,7,5
+1990--2000,467496,Fromages Frais Et Affines,8,1
+,467497,Petits Gâteaux D'une Bouchée,7,2
+,166800,Four Secs Mignardises Et Nos Chocolats,5,3
+,467505,Crêpes Vonnassiennes,5,3
+,467488,Crepe Parmentiere Au Saumon Et Caviar,4,5
+,166780,Ravioli Printanier Aux Citrons Confits,4,5
+,166782,Blanquette De Grenouilles Aux Truffes,4,5
+,467489,Sauté De Coquilles Saint jacques Aux Cèpes,4,5
+,32125,Canapes,3,9
+,166751,Fond D'artichaut Barigoule Au Homard,3,9
+,467487,Marbré De Foie Gras Aux Artichauts,3,9
+,166783,Soupe De Haricots Blancs Aux Truffes Noires,3,9
+,467500,Cuisses De Grenouilles Sautées Comme En Dombes,3,9
+,503838,Petits Gâteaux D'une Bouchée,3,9
+,503839,Fours Secs Mignardises,3,9
+,503841,Nos Chocolats,3,9
+2000 AND AFTER,146779,Cheeseburger,2,1
+,21762,Melon,2,1
+,487181,Apple Cider French Onion With Thyme,2,1
+,1633,Salz Kartoffeln,2,1
+,448258,Mignardises,2,1
+,135577,Irish Coffee,2,1
+,157758,Risotto Of The Day,2,1
+,154760,Domaine Ott 1973,2,1
+,159754,Chardonnay Estancia Estates 1996 monterey,2,1
+,170467,Corton charlemagne Domaine Louis Latour,2,1
+,1313,Camembert,2,1
+,170533,1934 Chateau Margaux Margaux,2,1
+,170692,1976 Veuve Clicquot,2,1
+,170758,1976 Dom Ruinart,2,1

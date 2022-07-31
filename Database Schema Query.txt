@@ -1,0 +1,73 @@
+Table create query:
+Dish table:
+'CREATE TABLE `dish` (
+  `id` int(11) NOT NULL,
+  `name` text,
+  `description` text,
+  `menus_appeared` int(11) DEFAULT NULL,
+  `times_appeared` int(11) DEFAULT NULL,
+  `first_appeared` int(11) DEFAULT NULL,
+  `last_appeared` int(11) DEFAULT NULL,
+  `lowest_price` double DEFAULT NULL,
+  `highest_price` double DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci'
+
+
+Menuitem table:
+'CREATE TABLE `menuitem` (
+  `id` int(11) NOT NULL,
+  `menu_page_id` int(11) NOT NULL,
+  `price` double DEFAULT NULL,
+  `high_price` text,
+  `dish_id` int(11) NOT NULL,
+  `created_at` text,
+  `updated_at` text,
+  `xpos` double DEFAULT NULL,
+  `ypos` double DEFAULT NULL,
+  PRIMARY KEY (`id`),
+  KEY `menu_item to dish_idx` (`dish_id`),
+  KEY `menu_item to menu_page_idx` (`menu_page_id`),
+  CONSTRAINT `item to dish` FOREIGN KEY (`dish_id`) REFERENCES `dish` (`id`),
+  CONSTRAINT `item to page` FOREIGN KEY (`menu_page_id`) REFERENCES `menupage` (`id`)
+) 
+
+
+Menupage table:
+'CREATE TABLE `menupage` (
+  `id` int(11) NOT NULL,
+  `menu_id` int(11) DEFAULT NULL,
+  `page_number` int(11) DEFAULT NULL,
+  `image_id` int(11) DEFAULT NULL,
+  `full_height` int(11) DEFAULT NULL,
+  `full_width` int(11) DEFAULT NULL,
+  `uuid` text,
+  PRIMARY KEY (`id`),
+  KEY `page to menu_idx` (`menu_id`),
+  CONSTRAINT `page to menu` FOREIGN KEY (`menu_id`) REFERENCES `menu` (`id`)
+) 
+
+
+Menu table:
+'CREATE TABLE `menu` (
+  `id` int(11) NOT NULL,
+  `name` text,
+  `sponsor` text,
+  `event` text,
+  `venue` text,
+  `place` text,
+  `physical_description` text,
+  `occasion` text,
+  `call_number` text,
+  `keywords` text,
+  `language` text,
+  `date` text,
+  `location` text,
+  `location_type` text,
+  `currency` text,
+  `currency_symbol` text,
+  `status` text,
+  `page_count` int(11) DEFAULT NULL,
+  `dish_count` int(11) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) 

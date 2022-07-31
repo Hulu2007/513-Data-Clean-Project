@@ -1,0 +1,31 @@
+venue,dish_name,cnt
+COM,Coffee,3174
+COM,Tea,1865
+COM,"Potatoes Mashed",1414
+EDU,Coffee,82
+EDU,Olives,81
+EDU,Radishes,48
+GOVT,Coffee,56
+GOVT,Olives,38
+GOVT,Dessert,34
+HOTEL,Coffee,41
+HOTEL,Tea,32
+HOTEL,"Assorted Cold Cuts",32
+NAV,Coffee,77
+NAV,Fruit,41
+NAV,Bread,40
+OTHER,Coffee,38
+OTHER,Celery,31
+OTHER,Olives,30
+PROF,Coffee,206
+PROF,Olives,203
+PROF,Cigars,163
+RAILROAD,Coffee,111
+RAILROAD,Milk,94
+RAILROAD,Tea,93
+RESTAURANT,Coffee,61
+RESTAURANT,Tea,50
+RESTAURANT,Milk,40
+SOC,Olives,312
+SOC,Coffee,304
+SOC,Celery,269
